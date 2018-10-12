@@ -1,0 +1,23 @@
+- Precalcular as vezes é a melhor opção.
+- Busca binária vai além de pesquisar um valor num vetor ordenado.
+- Sempre checar os tipos de variavéis que estou usando e se elas satisfazem o enunciado.
+- As vezes usar upper_bound se torna mais interessante e da a resposta certa, como no problema D, onde há números repetidos.
+- Interessante ver pequenos padrões, por exemplo na questão E, você apenas tem uma resposta se a soma total for divisivel por 3.
+- Conforme vou fazendo exercícios, vejo que é comum usar soma por prefixo e busca binária nela. Provavelmente é melhor ficar de olho nesses padrões.
+- Talvez upper_bound seria melhor na F?
+- Forca bruta passou na G, olhar bem os time limits.
+- Nova tecnica na H, two pointers. Consiste em usar dois ponteiros i, j e percorrer uma array ordenada. Desse modo podemos encontrar somas entre i e j, pares i e j. Dificuldade 1. As vezes two pointers será mais fácil que um binary search.
+- Problema I não foi binary search. Apenas um algoritmo construtivo usando PA.
+
+
+
+
+A - New Year and Hurry 750A
+B - T-Primes 230B
+C - Worms 474B
+D - Interesting drink 706B
+E - Number of Ways 466C - Com editorial.
+F - Books 279B
+G - Perfect Number 919B
+H - Kefa and Company 580B
+I - Chloe and the sequence 743B
